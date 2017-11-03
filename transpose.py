@@ -50,4 +50,7 @@ if __name__=="__main__":
     print m
     m.transpose()
     print m
+    m.transpose()
+    print m
+    
     
